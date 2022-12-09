@@ -32,7 +32,7 @@ OWNER_ID = list(
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Starboihackss723/op",
+    "https://github.com/star-boi-opksb/oosnd",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
